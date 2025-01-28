@@ -7,4 +7,4 @@ class FreakyAaron(FreakyRhys):
         super().__init__()
 
 test = FreakyRhys()
-print(test)
+print(test.freak)
